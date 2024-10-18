@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="avJZLR5kbNmxugPJdJrf">
-    <mxGraphModel>
+    <mxGraphModel dx="1432" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NXeMc2x-BghYOdEo50SY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NXeMc2x-BghYOdEo50SY-2" target="NXeMc2x-BghYOdEo50SY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NXeMc2x-BghYOdEo50SY-2" value="indentifySummary.vue&lt;br&gt;&lt;div style=&quot;color: rgb(187, 187, 187); background-color: rgb(40, 44, 52); font-family: cascadia-code, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15px; line-height: 23px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #98c379;&quot;&gt;mainCheck&lt;/span&gt;&lt;/div&gt;syncResources" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NXeMc2x-BghYOdEo50SY-5" value="packages/summary/src/index.vue&lt;br&gt;&lt;div style=&quot;color: rgb(187, 187, 187); background-color: rgb(40, 44, 52); font-family: cascadia-code, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15px; line-height: 23px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #98c379;&quot;&gt;guestIdentifySummarySave&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="320" width="330" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
